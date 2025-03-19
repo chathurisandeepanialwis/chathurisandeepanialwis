@@ -8,7 +8,7 @@
   💡 Currently, I'm developing a series of games focused on:
 </p>
 
-<ul align="center">
+<ul>
   <li>Math Mastery: Engaging games to reinforce key mathematical concepts.</li>
   <li>Language Adventures: Interactive stories and puzzles to build literacy skills.</li>
   <li>Science Explorations: Virtual experiments and simulations that bring science to life.</li>
